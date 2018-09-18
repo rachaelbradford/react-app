@@ -1,2 +1,2 @@
 # react-app
-simple single page react app
+a simple single page react app
